@@ -6,12 +6,12 @@ Discord: MrRazamataz#6614
 Email: mrrazamataz@mrrazamataz.ga
 Second (arguably cooler) email: mrrazamataz@kingdomscrusade.net
 Reddit: u/MrRazamataz , r/MrRazamataz or r/KingdomsCrusade
-## These are the only offical contacts.
 
 
 
 
 
+## Minecraft Server Info:
 KC (Minecraft Java and Bedrock Crossplay SMP server):
 IP: `play.kingdomscrusade.net`
 Port: Default for all platforms. 
