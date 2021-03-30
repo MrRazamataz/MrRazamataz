@@ -7,8 +7,9 @@ Here you can view my random projects and cringe at the code. I also work in the 
 * Second (arguably cooler) email: mrrazamataz@kingdomscrusade.net
 * Reddit: u/MrRazamataz , r/MrRazamataz or r/KingdomsCrusade
 
-
-
+## More random info because yes:
+My site: https://mrrazamataz.ga 
+/n test
 
 
 ## Minecraft Server Info:
@@ -18,5 +19,5 @@ Here you can view my random projects and cringe at the code. I also work in the 
   - Port: Default for all platforms. 
   - More info on the site: http://kingdomscrusade.net
 
-My site: https://mrrazamataz.ga
+
 
