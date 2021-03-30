@@ -2,10 +2,10 @@
 Here you can view my random projects and cringe at the code. I also work in the https://github.com/KingdomsCrusade repo thingymabob as thats for my Minecraft Bedrock and Java SMP server which you can find the info for below.
 
 ## Contacts:
-Discord: MrRazamataz#6614
-Email: mrrazamataz@mrrazamataz.ga
-Second (arguably cooler) email: mrrazamataz@kingdomscrusade.net
-Reddit: u/MrRazamataz , r/MrRazamataz or r/KingdomsCrusade
+* Discord: MrRazamataz#6614
+* Email: mrrazamataz@mrrazamataz.ga
+* Second (arguably cooler) email: mrrazamataz@kingdomscrusade.net
+* Reddit: u/MrRazamataz , r/MrRazamataz or r/KingdomsCrusade
 
 
 
