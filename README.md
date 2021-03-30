@@ -12,10 +12,11 @@ Here you can view my random projects and cringe at the code. I also work in the 
 
 
 ## Minecraft Server Info:
-KC (Minecraft Java and Bedrock Crossplay SMP server):
-IP: `play.kingdomscrusade.net`
-Port: Default for all platforms. 
-More info on the site: http://kingdomscrusade.net
+
+-KC (Minecraft Java and Bedrock Crossplay SMP server):
+  -IP: `play.kingdomscrusade.net`
+  -Port: Default for all platforms. 
+  -More info on the site: http://kingdomscrusade.net
 
 My site: https://mrrazamataz.ga
 
