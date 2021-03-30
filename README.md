@@ -9,7 +9,7 @@ Here you can view my random projects and cringe at the code. I also work in the 
 
 ## More random info because yes:
 My site: https://mrrazamataz.ga 
-/n test
+
 
 
 ## Minecraft Server Info:
