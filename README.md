@@ -1,9 +1,9 @@
-### Hi there 👋
+### Welcome to my GitHub Profile.
+# Here you cant date me but find my crap code :D
 
 <!--
 **MrRazamataz/MrRazamataz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
