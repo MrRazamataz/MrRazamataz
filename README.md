@@ -6,7 +6,7 @@ Discord: MrRazamataz#6614
 Email: mrrazamataz@mrrazamataz.ga
 Second (arguably cooler) email: mrrazamataz@kingdomscrusade.net
 Reddit: u/MrRazamataz , r/MrRazamataz or r/KingdomsCrusade
-# These are the only offical contacts.
+### These are the only offical contacts.
 
 
 
