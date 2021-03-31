@@ -3,7 +3,7 @@ Here you can view my random projects and cringe at the code. I also work in the 
 ## Stats:  
 ![](https://komarev.com/ghpvc/?username=MrRazamataz&color=orange&style=plastic)  
 [![MrRazamataz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRazamataz&theme=dark)](https://github.com/MrRazamataz)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRazamataz&layout=compact)](https://github.com/MrRazamataz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRazamataz&layout=compact&theme=dark)](https://github.com/MrRazamataz)
 ## Contacts:
 * Discord: MrRazamataz#6614
 * Email: mrrazamataz@mrrazamataz.ga
