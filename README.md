@@ -1,7 +1,8 @@
 ### Welcome to my GitHub Profile.
 Here you can view my random projects and cringe at the code. I also work in the https://github.com/KingdomsCrusade repo thingymabob as thats for my Minecraft Bedrock and Java SMP server which you can find the info for below.  
 ## Stats:  
-![](https://komarev.com/ghpvc/?username=MrRazamataz&color=orange&style=plastic)
+![](https://komarev.com/ghpvc/?username=MrRazamataz&color=orange&style=plastic)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRazamataz&layout=compact)](https://github.com/MrRazamataz)
 ## Contacts:
 * Discord: MrRazamataz#6614
 * Email: mrrazamataz@mrrazamataz.ga
