@@ -8,7 +8,7 @@ Here you can view my "projects".
 You can add my discord bot and let me know on Discord if its any good or not, https://razbot.xyz/ :D
 ## Contacts:
 * Discord: MrRazamataz#6614
-* Email: mrrazamataz@mrrazamataz.ga
+* Email: mrrazamataz@razbot.xyz
 * Second (arguably cooler) email: mrrazamataz@kingdomscrusade.net
 * Reddit: u/MrRazamataz , r/MrRazamataz or r/KingdomsCrusade
 
