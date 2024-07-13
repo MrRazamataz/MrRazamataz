@@ -6,7 +6,7 @@ Here you can view my "projects".
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRazamataz&layout=compact&theme=dark)](https://github.com/MrRazamataz)  
 ## Music: 
 ![](https://razbot.xyz/nowPlaying.php?pic)    
-*turns out GitHub caches images out of my control so this doesnt work as i thought it would D:*
+*turns out GitHub caches images out of my control so this doesnt work as i thought it would D:*  
 You can view last.fm profile [here](https://www.last.fm/user/Mr_Razamataz).
 ## Apps:
 * Bussin: A UK bus stop/times app. In beta [here](https://play.google.com/store/apps/details?id=xyz.razbot.bussin). Currenty not open source as it's a school project that hasn't been handed in yet.  
