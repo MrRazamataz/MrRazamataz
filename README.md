@@ -5,7 +5,7 @@ Here you can view my "projects".
 [![MrRazamataz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRazamataz&theme=dark)](https://github.com/MrRazamataz)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRazamataz&layout=compact&theme=dark)](https://github.com/MrRazamataz)  
 ## Music: 
-![](https://razbot.xyz/nowPlaying.php?pic)    
+![](https://razbot.xyz/nowPlaying1.php?pic)    
 *turns out GitHub caches images out of my control so this doesnt work as i thought it would D:*  
 You can view last.fm profile [here](https://www.last.fm/user/Mr_Razamataz).
 ## Apps:
