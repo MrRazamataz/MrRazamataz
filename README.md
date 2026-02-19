@@ -9,7 +9,7 @@ Here you can view my "projects".
 *this does not update as often as id like due to GitHub caching the images. ive tried different things such as disabling caching for that URL etc but it still seems to. let me know if theres something i havent done*  
 You can view my last.fm profile [here](https://www.last.fm/user/Mr_Razamataz).
 ## Apps:
-* Bussin: A UK bus stop/times app. In beta [here](https://play.google.com/store/apps/details?id=xyz.razbot.bussin). Currenty not open source as ~~it's a school project that hasn't been handed in yet~~ I haven't bothered to yet.  
+Just the one, Bussin (see [bussin.uk](https://bussin.uk)). It is a UK bus stop locator and bus live/scheduled times finder. Android only because I'm not paying Apple to make an app. Tossers.
 ## RazBot  
 You can add my discord bot and let me know on Discord if its any good or not, https://razbot.xyz/ :D
 ## Contacts:
